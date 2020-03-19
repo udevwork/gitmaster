@@ -30,9 +30,6 @@ class MainViewController: UIViewController {
         super.init(nibName: nil, bundle: nil)
         view.backgroundColor = .lightGray
         
-      
-        
-        
     }
     
     required init?(coder: NSCoder) {
